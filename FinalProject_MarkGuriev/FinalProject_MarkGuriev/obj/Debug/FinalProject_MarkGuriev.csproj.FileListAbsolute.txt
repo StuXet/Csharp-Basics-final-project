@@ -1,0 +1,34 @@
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\FinalProject_MarkGuriev.exe.config
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\FinalProject_MarkGuriev.exe
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\FinalProject_MarkGuriev.pdb
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\obj\Debug\FinalProject_MarkGuriev.csproj.AssemblyReference.cache
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\obj\Debug\FinalProject_MarkGuriev.csproj.CoreCompileInputs.cache
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\obj\Debug\FinalProject_MarkGuriev.exe
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\obj\Debug\FinalProject_MarkGuriev.pdb
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 1.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 10.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 2.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 3.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 4.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 5.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 6.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 7.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 8.txt
+C:\Users\mark4\source\repos\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 9.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 1.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 10.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 7.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 8.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 9.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 4.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 5.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 6.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 2.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\Level 3.txt
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\FinalProject_MarkGuriev.exe.config
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\FinalProject_MarkGuriev.exe
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\bin\Debug\FinalProject_MarkGuriev.pdb
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\obj\Debug\FinalProject_MarkGuriev.csproj.AssemblyReference.cache
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\obj\Debug\FinalProject_MarkGuriev.csproj.CoreCompileInputs.cache
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\obj\Debug\FinalProject_MarkGuriev.exe
+D:\GitHub\Roguelike-Roguesharp\FinalProject_MarkGuriev\FinalProject_MarkGuriev\obj\Debug\FinalProject_MarkGuriev.pdb
